@@ -1,0 +1,6 @@
+{
+  "name": "ChemQuest: Petualangan di Dunia Unsur Kimia",
+  "description": "Media pembelajaran game-based learning kimia berbasis AI untuk siswa SMA (Kelas X, XI, XII). Dilengkapi tabel periodik interaktif, laboratorium virtual, arena reaksi, mini-games, evaluasi, dan tutor AI ChemBot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
